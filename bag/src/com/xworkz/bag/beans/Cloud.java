@@ -3,9 +3,8 @@ package com.xworkz.bag.beans;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Cement {
-	public Cement() {
-		System.out.println("Created Cemnt");
+public class Cloud {
+	public Cloud() {
+		System.out.println("created cloud");
 	}
-
 }

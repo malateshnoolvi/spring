@@ -3,9 +3,9 @@ package com.xworkz.bag.beans;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Cement {
-	public Cement() {
-		System.out.println("Created Cemnt");
-	}
+public class Air {
+public Air() {
+	System.out.println("created air");
 
+}
 }
